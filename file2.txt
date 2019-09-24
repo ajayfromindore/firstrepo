@@ -1,2 +1,3 @@
 hello this is file2 first line.
 hello this is file2 second line add in feature branch.
+hello this is fie2 third line in new branch.
